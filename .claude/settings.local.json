@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:fantasticdice.games)",
+      "Bash(cp:*)"
+    ],
+    "deny": []
+  }
+}
