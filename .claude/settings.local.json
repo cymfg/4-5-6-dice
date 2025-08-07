@@ -10,7 +10,8 @@
       "Bash(pkill:*)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:fantasticdice.games)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }
